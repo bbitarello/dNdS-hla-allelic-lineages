@@ -1,0 +1,30 @@
+#This directory contains input alignment and tree files for all site models
+#(branch models)  analyses (performed in CODEML)  mentioned in the paper.
+
+
+#All files that start with A are alignment files for HLA-A
+#NR: datasets after removal of recombinant sequences. For these analyses, only
+#NR datasets were used. 
+#Tree files are in Newick format and wer egenerated with the program NEIGHBOR,
+#from the PHYLIP package, after running DNADIST on these alignment files. (see
+#the paper for details).
+
+
+#ARS: dataset containing only ARS codons (Bjorkman et al. 1987)
+#NARS: dataset containing only non-ARS codons (see main paper).
+
+#A_final: unrooted tree (Newick format) for running analyses for both the ARS
+#(A_ars_NR_prunned.phy) and NARS (A_nars_NR_prunned.phy_) datasets, for model=0
+#(one omega), i.e,no labels in the tree.
+#
+##A_2a_final: unrooted tree (Newick format) for running analyses for both the
+#ARS and NARS datasets, for model=2 (two omegas), i.e, with labels for
+#INTRA-INTER branches.
+
+
+##A_2b_final: unrooted tree (Newick format) for running analyses for both the
+#ARS (A_ars_NR_prunned.phy) and NARS (A_nars_NR_prunned.phy) datasets, for model=2 (two omegas), i.e, with labels for
+#INTERNEL-TERMINAL branches.
+#
+#The same applies for HLA-B and HLA-C
+#
