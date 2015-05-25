@@ -1,0 +1,18 @@
+#This directory contains input alignment and tree files for all site models
+#(codon models)  analyses (performed in CODEML)  mentioned in the paper.
+
+#codeml_A_nuc_all.ctl #example of control file for the HLA-A locus, prior to
+#removal of recombinants, initial omega=0.4.
+#Note that NSsites is set to 0 1 2 7 8 to run all these models at once (one
+run).
+
+#All files that start with A are alignment files for HLA-A
+#CR: datasets prior to removal of recombinant sequences
+#SR: datasets after removal of recombinant sequences
+#Tree files are in Newick format and wer egenerated with the program NEIGHBOR,
+from the PHYLIP package, after running DNADIST on these alignment files. (see
+the paper for details).
+
+
+
+
