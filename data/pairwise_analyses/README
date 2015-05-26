@@ -8,7 +8,7 @@ described in the main paper.
 #CR: datasets prior to removal of intragenic recombinants.
 #SR: datasets after removal of intragenic recombinants.
 
-#ARS: alignment containing only ARS codons (Bjorkman et al. 1987)
+#ARS: alignment containing only ARS codons (Chelvanayagam 1996)
 #NARS: alignment containg only non-ARS codons. This includes all codons between
 exons 2-6 (HLA-A and HLA-C) and 2-7 (HLA-B), minus the ARS codons.
 
