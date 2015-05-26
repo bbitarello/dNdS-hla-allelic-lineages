@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ###############################################################################################
 #	Bárbara D Bitarello
 #
-#	Last modified: 23.03.2014
+#	Last modified: 25.05.2015
 #	Obs: these are the additional analyses we decided to do for the JME paper.
 ###############################################################################################
 
@@ -18,7 +16,7 @@
 #CR: datasets prior to removal of intragenic recombinants.
 #SR: datasets after removal of intragenic recombinants.
 
-#ARS: alignment containing only ARS codons (Bjorkman et al. 1987)
+#ARS: alignment containing only ARS codons (Chelvanaygam 1996)
 #NARS: alignment containg only non-ARS codons. This includes all codons between
 #exons 2-6 (HLA-A and HLA-C) and 2-7 (HLA-B), minus the ARS codons.
 
