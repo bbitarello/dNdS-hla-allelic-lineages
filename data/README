@@ -7,4 +7,7 @@ paper
 
 #branch_models
 
-#site_models:
+#site_models
+
+#the rosetta files provide the conversion between the actual alleles' names (as in IMGT/HLA) and the names used in the input files for PAML, which follow a numerical order.
+
