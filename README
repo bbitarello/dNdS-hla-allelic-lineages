@@ -9,12 +9,9 @@
  Authors: Bárbara D Bitarello, Rodrigo dos Santos Francisco, Diogo Meyer
  The final publication is available at Springer via http://dx.doi.org/10.1007/s00239-015-9713-9
 
-#Input alignment files for CODEML analyses
-#codeml_A_ars_m0.ctl  #example control file for pairwise analyses (HLA-A, ARS)
-#dataset, prior to removal of recombinants, see below).
+Here we provide the data used for each set of analyses: pairwise, site models, branch models 
+#and 100 Genomes analyses, as described in the paper.
 
-#The files in this directory were used for all pairwise analyses (CODEML)
-#described in the main paper.
 
 #CR: datasets prior to removal of intragenic recombinants.
 #SR: datasets after removal of intragenic recombinants.
