@@ -1,13 +1,7 @@
-###############################################################################################
-#	Bárbara D Bitarello
-#
-#	Last modified: October.30.2015
-#	Obs: these are the additional analyses we decided to do for the JME paper.
-###############################################################################################
- 
- Article title: "Heterogeneity of dN/dS ratios at the classical HLA class I genes over divergence time and across the allelic phylogeny"
- Authors: Bárbara D Bitarello, Rodrigo dos Santos Francisco, Diogo Meyer
- The final publication is available at Springer via http://dx.doi.org/10.1007/s00239-015-9713-9
+# Heterogeneity of dN/dS ratios at the classical HLA class I genes over divergence time and across the allelic phylogeny
+
+Authors: Bárbara D Bitarello, Rodrigo dos Santos Francisco, Diogo Meyer
+The final publication is available [at Springer](http://dx.doi.org/10.1007/s00239-015-9713-9).
 
 Here we provide the data used for each set of analyses: pairwise, site models, branch models 
 #and 100 Genomes analyses, as described in the paper.
